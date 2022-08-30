@@ -2,7 +2,9 @@
 
 /*
 -------------------------------------
+
 font
+
 --------------------------------------
 */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
@@ -10,7 +12,9 @@ font
 
 /*
 -------------------------------------
+
 reset
+
 --------------------------------------
 */
 
@@ -70,7 +74,6 @@ img {
     vertical-align: middle;
     font-size: 0;
     max-width: 100%;
-    /* 반응형 이미지 */
 }
 
 table {
